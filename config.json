@@ -1,0 +1,31 @@
+{
+    "token": "MTAzODk1NjgwODYyNDE0NDUwOQ.GcW1Ik.ZYY80-lAlc3nfOiIflljXRQRtogiWE3EXxLsP8", 
+    "prefix": ";",
+    "ownerID": "268280907453038593", 
+    "managerRoleID":"1038958933362089994", 
+    "channelsID": { 
+        "changeNickName": "1038959771807658105",
+        "getRoles": "1038966387177177088",
+        "giveaways": ""
+    },
+    "rolesList": [
+        {
+            "name": "Roller Champions",
+            "desc": "Accédez aux channels dédié à Roller Champions.",
+            "badge": "",
+            "role": "984203733221126184"
+        },
+        {
+            "name": "Valorant",
+            "desc": "Accédez aux channels dédié à Valorant.",
+            "badge": "",
+            "role": "984215224854917200"
+        },
+        {
+            "name": "Minecraft",
+            "desc": "Accédez aux channels dédié à Minecraft.",
+            "badge": "",
+            "role": "984215275689877534"
+        }
+    ]
+}
