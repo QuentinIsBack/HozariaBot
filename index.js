@@ -21,4 +21,4 @@ client.on("ready", () => {
 // Initializing the project
 require("./src/handler/handler.js")(client);
 
-client.login(client.config.token);
+client.login(process.env.TOKEN);
